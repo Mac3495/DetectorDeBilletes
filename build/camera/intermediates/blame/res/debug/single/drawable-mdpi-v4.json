@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    }
+]

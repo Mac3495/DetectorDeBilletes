@@ -1,0 +1,141 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+org/tensorflow/lite/R.java
+ org.tensorflow.lite.R
+com/example/flutter_tflite/R.java
+ com.example.flutter_tflite.R
+ com.example.flutter_tflite.R$attr
+ com.example.flutter_tflite.R$color
+ com.example.flutter_tflite.R$dimen
+ com.example.flutter_tflite.R$drawable
+ com.example.flutter_tflite.R$id
+ com.example.flutter_tflite.R$integer
+ com.example.flutter_tflite.R$layout
+ com.example.flutter_tflite.R$mipmap
+ com.example.flutter_tflite.R$string
+ com.example.flutter_tflite.R$style
+ com.example.flutter_tflite.R$styleable
+androidx/activity/R.java
+ androidx.activity.R
+ androidx.activity.R$attr
+ androidx.activity.R$color
+ androidx.activity.R$dimen
+ androidx.activity.R$drawable
+ androidx.activity.R$id
+ androidx.activity.R$integer
+ androidx.activity.R$layout
+ androidx.activity.R$string
+ androidx.activity.R$style
+ androidx.activity.R$styleable
+sq/flutter/tflite/R.java
+ sq.flutter.tflite.R
+ sq.flutter.tflite.R$attr
+ sq.flutter.tflite.R$color
+ sq.flutter.tflite.R$dimen
+ sq.flutter.tflite.R$drawable
+ sq.flutter.tflite.R$id
+ sq.flutter.tflite.R$integer
+ sq.flutter.tflite.R$layout
+ sq.flutter.tflite.R$string
+ sq.flutter.tflite.R$style
+ sq.flutter.tflite.R$styleable
+androidx/lifecycle/livedata/core/R.java
+ androidx.lifecycle.livedata.core.R
+androidx/lifecycle/livedata/R.java
+ androidx.lifecycle.livedata.R
+androidx/lifecycle/R.java
+ androidx.lifecycle.R
+com/example/flutter_tflite/BuildConfig.java
+ com.example.flutter_tflite.BuildConfig
+androidx/arch/core/R.java
+ androidx.arch.core.R
+androidx/versionedparcelable/R.java
+ androidx.versionedparcelable.R
+androidx/viewpager/R.java
+ androidx.viewpager.R
+ androidx.viewpager.R$attr
+ androidx.viewpager.R$color
+ androidx.viewpager.R$dimen
+ androidx.viewpager.R$drawable
+ androidx.viewpager.R$id
+ androidx.viewpager.R$integer
+ androidx.viewpager.R$layout
+ androidx.viewpager.R$string
+ androidx.viewpager.R$style
+ androidx.viewpager.R$styleable
+androidx/fragment/R.java
+ androidx.fragment.R
+ androidx.fragment.R$attr
+ androidx.fragment.R$color
+ androidx.fragment.R$dimen
+ androidx.fragment.R$drawable
+ androidx.fragment.R$id
+ androidx.fragment.R$integer
+ androidx.fragment.R$layout
+ androidx.fragment.R$string
+ androidx.fragment.R$style
+ androidx.fragment.R$styleable
+androidx/savedstate/R.java
+ androidx.savedstate.R
+androidx/customview/R.java
+ androidx.customview.R
+ androidx.customview.R$attr
+ androidx.customview.R$color
+ androidx.customview.R$dimen
+ androidx.customview.R$drawable
+ androidx.customview.R$id
+ androidx.customview.R$integer
+ androidx.customview.R$layout
+ androidx.customview.R$string
+ androidx.customview.R$style
+ androidx.customview.R$styleable
+io/flutter/plugins/camera/R.java
+ io.flutter.plugins.camera.R
+ io.flutter.plugins.camera.R$attr
+ io.flutter.plugins.camera.R$color
+ io.flutter.plugins.camera.R$dimen
+ io.flutter.plugins.camera.R$drawable
+ io.flutter.plugins.camera.R$id
+ io.flutter.plugins.camera.R$integer
+ io.flutter.plugins.camera.R$layout
+ io.flutter.plugins.camera.R$string
+ io.flutter.plugins.camera.R$style
+ io.flutter.plugins.camera.R$styleable
+com/tundralabs/fluttertts/R.java
+ com.tundralabs.fluttertts.R
+ com.tundralabs.fluttertts.R$attr
+ com.tundralabs.fluttertts.R$color
+ com.tundralabs.fluttertts.R$dimen
+ com.tundralabs.fluttertts.R$drawable
+ com.tundralabs.fluttertts.R$id
+ com.tundralabs.fluttertts.R$integer
+ com.tundralabs.fluttertts.R$layout
+ com.tundralabs.fluttertts.R$string
+ com.tundralabs.fluttertts.R$style
+ com.tundralabs.fluttertts.R$styleable
+androidx/loader/R.java
+ androidx.loader.R
+ androidx.loader.R$attr
+ androidx.loader.R$color
+ androidx.loader.R$dimen
+ androidx.loader.R$drawable
+ androidx.loader.R$id
+ androidx.loader.R$integer
+ androidx.loader.R$layout
+ androidx.loader.R$string
+ androidx.loader.R$style
+ androidx.loader.R$styleable
+androidx/lifecycle/viewmodel/R.java
+ androidx.lifecycle.viewmodel.R
+androidx/core/R.java
+ androidx.core.R
+ androidx.core.R$attr
+ androidx.core.R$color
+ androidx.core.R$dimen
+ androidx.core.R$drawable
+ androidx.core.R$id
+ androidx.core.R$integer
+ androidx.core.R$layout
+ androidx.core.R$string
+ androidx.core.R$style
+ androidx.core.R$styleable

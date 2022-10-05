@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/Universidad/UMSA/INF - 323/Repo/Final/flutter_tflite/build/camera/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/3866cef04885fa3392c1a3eaa2464c74/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]
