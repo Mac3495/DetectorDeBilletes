@@ -1,6 +1,6 @@
 # Detector de Billetes
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/1200px-Umsa-logo.svg.png" width="50" height="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/1200px-Umsa-logo.svg.png" width="100" height="200" />
 
 
 ### Universidad Mayor de San Andrés
