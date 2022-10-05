@@ -1,6 +1,6 @@
 # Detector de Billetes
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/1200px-Umsa-logo.svg.png =50x100)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Umsa-logo.svg/1200px-Umsa-logo.svg.png" width="50" height="100" />
 
 
 ### Universidad Mayor de San Andrés
@@ -11,6 +11,8 @@
 ***MODELO DE DETECCIÓN DEL VALOR DE LOS CORTES DE BILLETES PARA PERSONAS CON DIFICULTADES VISUALES O CEGUERA TOTAL EN BOLIVIA BASADO EN REDES NEURONALES*** 
 
 **Autor: Marcelo Torrez Azuga**
+<br>
+
 **Tutor: M.Sc. Aldo Ramiro Valdez Alvarado**
 
 ### Dataset:
